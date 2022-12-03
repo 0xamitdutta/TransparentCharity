@@ -10,11 +10,25 @@
 
 ## Installation
 
+To get Charity Blockchain up and running on your local machine, run the following in a terminal:
+
+```shell
+    $ git clone git@github.com:sswensen/Charity-Blockchain.git // Clone repo
+```
+Install dependencies manually:
+
 ``` shell
-    $ cd client
+    $ cd project
     $ npm install // Install all dependencies
     $ cd ..
     $ npm install
+```
+
+Compile and deploy contracts to your local test net (Ganache):
+
+```shell
+    $ truffle compile
+    $ truffle migrate
 ```
 
 ## How it works
