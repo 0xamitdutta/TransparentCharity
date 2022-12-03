@@ -24,8 +24,8 @@ Provides GUI for local based Ethereum blockchain development.
 
 ## How it works
 
-Create/login into your metamask wallet
-A ganache RPC Server is run with metamask as the wallet, using the node.js interface.
-A hash value is generated from charity and organisation details
-transaction hash is generated for each transaction between organisation and charity, when a transaction is carried out
-when the user mines all the transactions updates, a block is generated
+* Create/login into your metamask wallet
+* A ganache RPC Server is run with metamask as the wallet, using the node.js interface.
+* A hash value is generated from charity and organisation details
+* transaction hash is generated for each transaction between organisation and charity, when a transaction is carried out
+* when the user mines all the transactions updates, a block is generated
