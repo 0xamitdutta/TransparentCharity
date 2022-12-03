@@ -1,5 +1,7 @@
 # TransparentCharity
 
+![main_image](https://blog.justgiving.com/wp-content/uploads/2020/09/Transparency-iStock-photo-paid-for_21-1.jpg)
+
 ## The need
 
 ##### We dont see platforms ensuring transparency in case of charity/donations.
@@ -9,20 +11,16 @@
 ## Tech involved in the project
 
 #### Node.js
-
-##### Acting as the backend for our project
+Acting as the backend for our project
 
 #### Solidity web3
-
-##### It essentially has Inheritance properties in contracts including multiple level inheritance properties.
+It essentially has Inheritance properties in contracts including multiple level inheritance properties.
 
 #### Metamask
-
-##### easy to use secure wallet.
+easy to use secure wallet.
 
 #### Ganache
-
-##### Provides GUI for local based Ethereum blockchain development.
+Provides GUI for local based Ethereum blockchain development.
 
 ## How it works
 
