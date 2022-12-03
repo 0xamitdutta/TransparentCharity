@@ -8,19 +8,14 @@
 ##### Also there are security aspects involved.
 ##### Biggest problem being the transparency of the donation.
 
-## Tech involved in the project
+## Installation
 
-#### Node.js
-Acting as the backend for our project
-
-#### Solidity web3
-It essentially has Inheritance properties in contracts including multiple level inheritance properties.
-
-#### Metamask
-easy to use secure wallet.
-
-#### Ganache
-Provides GUI for local based Ethereum blockchain development.
+``` shell
+    $ cd client
+    $ npm install // Install all dependencies
+    $ cd ..
+    $ npm install
+```
 
 ## How it works
 
