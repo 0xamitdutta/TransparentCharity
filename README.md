@@ -4,7 +4,7 @@
 
 ## The need
 
-We dont see platforms ensuring transparency in case of charity/donations. Also there are security aspects involved. Biggest problem being the transparency of the donation.That is what we have tried to solve using this project.
+We dont see platforms ensuring transparency in case of charity/donations. Also there are security aspects involved. Biggest problem being the transparency of the donation. That is what we have tried to solve using this project.
 
 ## Installation
 
